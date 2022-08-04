@@ -1,0 +1,47 @@
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ [K(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ ll
+total 60
+drwx------ 6 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  4096 Aug  4 17:32 [0m[01;34m.[0m/
+drwx------ 3 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  4096 Aug  4 17:14 [01;34m..[0m/
+drwx------ 7 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  4096 Aug  4 17:12 [01;34m.git[0m/
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3 11245 Aug  4 17:32 .term.term-0.term
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3    55 Aug  4 17:32 .term.term-1.term
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3    33 Aug  4 17:19 README.md
+drwx------ 2 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  4096 Aug  4 14:10 [01;34m__pycache__[0m/
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3   365 Aug  4 17:09 index.html
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  1129 Aug  4 14:24 main.py
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3    64 Aug  1 17:52 requirements.txt
+drwx------ 7 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  4096 Aug  1 17:56 [01;34mstatic[0m/
+drwx------ 2 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3  4096 Aug  4 17:04 [01;34mtemplates[0m/
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3     0 Aug  4 17:32 term.term
+-rw------- 1 bddc9f3b0b6e4669ad3e82f6ebed57a3 bddc9f3b0b6e4669ad3e82f6ebed57a3   730 Aug  4 14:08 utils.py
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git add README.md 
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git commit -m 'first but[Kp'[1P'[1P'[1P'c'o'm'm'i't'
+[master (root-commit) 3c86ba2] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git remote add origin 
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git remote add origin 
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git remote add origin URL HERE[K[K[K[K[K_HERE^C
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ 
