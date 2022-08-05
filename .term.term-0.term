@@ -342,3 +342,11 @@ hint: Waiting for your editor to close the file... [?1049h[?1h=[1;40r[23m[
 (base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git add -A v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
 fatal: pathspec 'v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' did not match any files
 (base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git add -A
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git commit -m 'test2'
+[master b0f211c] test2
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ git push
+Username for 'https://github.com': ^C
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ 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
+bash: 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: command not found
+(base) ]0;~/Marcelle/app[01;34m~/Marcelle/app[00m$ g
